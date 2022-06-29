@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.CashbackHackerServiceTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2022-06-29T17:48:09" hostname="MBP-Igor-Leybe" time="0.024">
+<testsuite name="ru.netology.CashbackHackerServiceTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2022-06-29T19:14:28" hostname="MBP-Igor-Leybe" time="0.023">
   <properties/>
-  <testcase name="showWorkCashback()" classname="ru.netology.CashbackHackerServiceTest" time="0.018"/>
+  <testcase name="showWorkCashback()" classname="ru.netology.CashbackHackerServiceTest" time="0.017"/>
   <testcase name="showWorkCashback2()" classname="ru.netology.CashbackHackerServiceTest" time="0.0"/>
   <testcase name="showWorkCashback3()" classname="ru.netology.CashbackHackerServiceTest" time="0.004">
-    <failure message="org.opentest4j.AssertionFailedError: expected: &lt;1000&gt; but was: &lt;100&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;1000&gt; but was: &lt;100&gt;
+    <failure message="org.opentest4j.AssertionFailedError: expected: &lt;100&gt; but was: &lt;1000&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;100&gt; but was: &lt;1000&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
 	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)

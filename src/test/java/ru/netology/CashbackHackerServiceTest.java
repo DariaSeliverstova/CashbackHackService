@@ -14,7 +14,7 @@ public class CashbackHackerServiceTest {
         CashbackHackerService service = new CashbackHackerService();
         int actual = service.remain(boundary);
 
-        assertEquals(actual,expected);
+        assertEquals(expected, actual);
 
     }
     @Test
@@ -26,7 +26,7 @@ public class CashbackHackerServiceTest {
         CashbackHackerService service = new CashbackHackerService();
         int actual = service.remain(boundary);
 
-        assertEquals(actual,expected);
+        assertEquals(expected, actual);
     }
 
     @Test
@@ -38,7 +38,7 @@ public class CashbackHackerServiceTest {
         CashbackHackerService service = new CashbackHackerService();
         int actual = service.remain(boundary);
 
-        assertEquals(actual, expected);
+        assertEquals(expected, actual);
     }
 
 
